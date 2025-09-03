@@ -13,7 +13,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: "HyperSDK", url: "https://github.com/juspay/hypersdk-ios.git", .exact("2.2.4.5")),
+        .package(name: "HyperSDK", url: "https://github.com/juspay/hypersdk-ios.git", .exact("2.2.4.6")),
     ],
     targets: [
         .target(
